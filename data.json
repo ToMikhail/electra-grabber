@@ -1,17 +1,5 @@
 [
   {
-    "articleId": "004322",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Legrand",
-    "productLine": "Lexic",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "2",
-    "ratedCurrent": "20",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_2p_20a_1m.html"
-  },
-  {
     "articleId": "004314",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
@@ -21,7 +9,8 @@
     "numberOfPoles": "1",
     "ratedCurrent": "100",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html",
+    "name": "Модульный выключатель 1P, 100А, 1M"
   },
   {
     "articleId": "276290",
@@ -30,14 +19,16 @@
     "brand": "Eaton",
     "productLine": "IS",
     "productType": "аксессуар",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html",
+    "name": "Крышка зажимов Z-IS/AK-1TE, пластик, для IS"
   },
   {
     "articleId": "248266",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html",
+    "name": "Выключатель нагрузки ZP-A40/3N, 3P+N, 40A, 440VAC, 3kA, с возможностью установки вспомогательных контактов и расцепителя, 4M"
   },
   {
     "articleId": "276278",
@@ -50,10 +41,25 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-80/1, 1P, 80A, 12.5kA, 1M"
   },
   {
-    "articleId": "276270",
+    "articleId": "276271-00.00-00.00-01.01",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "Eaton",
+    "productLine": "IS",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "2",
+    "ratedCurrent": "40",
+    "breakingCapacity": "12,5",
+    "numberOfModules": "2",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_2_2p_40a_12_5ka_2m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/2, 2P, 40A, 12.5kA, 2M, стикерованный"
+  },
+  {
+    "articleId": "276270-00.00-00.00-01.01",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
@@ -63,7 +69,8 @@
     "ratedCurrent": "40",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/1, 1P, 40A, 12.5kA, 1M, стикерованный"
   },
   {
     "articleId": "276266",
@@ -76,20 +83,8 @@
     "ratedCurrent": "32",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html"
-  },
-  {
-    "articleId": "276262",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "25",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_25_1_1p_25a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-32/1, 1P, 32A, 12.5kA, 1M"
   },
   {
     "articleId": "276259",
@@ -102,7 +97,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "2",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html",
+    "name": "Выключатель нагрузки IS-20/2, 2P, 20A, 12.5kA, 2M"
   },
   {
     "articleId": "276258",
@@ -115,7 +111,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-20/1, 1P, 20A, 12.5kA, 1M"
   },
   {
     "articleId": "276256",
@@ -128,20 +125,8 @@
     "ratedCurrent": "16",
     "breakingCapacity": "12,5",
     "numberOfModules": "3",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html"
-  },
-  {
-    "articleId": "276254",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "16",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_1_1p_16a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html",
+    "name": "Выключатель нагрузки IS-16/3, 3P, 16A, 12.5kA, 3M"
   },
   {
     "articleId": "276286",
@@ -154,7 +139,8 @@
     "ratedCurrent": "125",
     "breakingCapacity": "10",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html",
+    "name": "Выключатель нагрузки IS-125/1, 1P, 125A, 10kA, 1M"
   },
   {
     "articleId": "GYH84P80",
@@ -167,7 +153,8 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-80, 4P, 80A, 12kA, 4M"
   },
   {
     "articleId": "GYH84P63",
@@ -180,19 +167,36 @@
     "ratedCurrent": "63",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-63, 4P, 63A, 12kA, 4M"
   },
   {
-    "articleId": "004322",
+    "articleId": "GYH84P32",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
-    "brand": "Legrand",
-    "productLine": "Lexic",
+    "brand": "GEYA",
+    "productLine": "GYH8",
     "productType": "модульный выключатель",
-    "numberOfPoles": "2",
-    "ratedCurrent": "20",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_2p_20a_1m.html"
+    "numberOfPoles": "4",
+    "ratedCurrent": "32",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_32_4p_32a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-32, 4P, 32A, 12kA, 4M"
+  },
+  {
+    "articleId": "GYH84P125",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "GEYA",
+    "productLine": "GYH8",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "4",
+    "ratedCurrent": "125",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_125_4p_125a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-125, 4P, 125A, 12kA, 4M"
   },
   {
     "articleId": "004314",
@@ -204,7 +208,8 @@
     "numberOfPoles": "1",
     "ratedCurrent": "100",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html",
+    "name": "Модульный выключатель 1P, 100А, 1M"
   },
   {
     "articleId": "276290",
@@ -213,14 +218,16 @@
     "brand": "Eaton",
     "productLine": "IS",
     "productType": "аксессуар",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html",
+    "name": "Крышка зажимов Z-IS/AK-1TE, пластик, для IS"
   },
   {
     "articleId": "248266",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html",
+    "name": "Выключатель нагрузки ZP-A40/3N, 3P+N, 40A, 440VAC, 3kA, с возможностью установки вспомогательных контактов и расцепителя, 4M"
   },
   {
     "articleId": "276278",
@@ -233,10 +240,25 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-80/1, 1P, 80A, 12.5kA, 1M"
   },
   {
-    "articleId": "276270",
+    "articleId": "276271-00.00-00.00-01.01",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "Eaton",
+    "productLine": "IS",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "2",
+    "ratedCurrent": "40",
+    "breakingCapacity": "12,5",
+    "numberOfModules": "2",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_2_2p_40a_12_5ka_2m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/2, 2P, 40A, 12.5kA, 2M, стикерованный"
+  },
+  {
+    "articleId": "276270-00.00-00.00-01.01",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
@@ -246,7 +268,8 @@
     "ratedCurrent": "40",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/1, 1P, 40A, 12.5kA, 1M, стикерованный"
   },
   {
     "articleId": "276266",
@@ -259,20 +282,8 @@
     "ratedCurrent": "32",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html"
-  },
-  {
-    "articleId": "276262",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "25",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_25_1_1p_25a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-32/1, 1P, 32A, 12.5kA, 1M"
   },
   {
     "articleId": "276259",
@@ -285,7 +296,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "2",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html",
+    "name": "Выключатель нагрузки IS-20/2, 2P, 20A, 12.5kA, 2M"
   },
   {
     "articleId": "276258",
@@ -298,7 +310,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-20/1, 1P, 20A, 12.5kA, 1M"
   },
   {
     "articleId": "276256",
@@ -311,20 +324,8 @@
     "ratedCurrent": "16",
     "breakingCapacity": "12,5",
     "numberOfModules": "3",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html"
-  },
-  {
-    "articleId": "276254",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "16",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_1_1p_16a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html",
+    "name": "Выключатель нагрузки IS-16/3, 3P, 16A, 12.5kA, 3M"
   },
   {
     "articleId": "276286",
@@ -337,7 +338,8 @@
     "ratedCurrent": "125",
     "breakingCapacity": "10",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html",
+    "name": "Выключатель нагрузки IS-125/1, 1P, 125A, 10kA, 1M"
   },
   {
     "articleId": "GYH84P80",
@@ -350,7 +352,8 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-80, 4P, 80A, 12kA, 4M"
   },
   {
     "articleId": "GYH84P63",
@@ -363,19 +366,36 @@
     "ratedCurrent": "63",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-63, 4P, 63A, 12kA, 4M"
   },
   {
-    "articleId": "004322",
+    "articleId": "GYH84P32",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
-    "brand": "Legrand",
-    "productLine": "Lexic",
+    "brand": "GEYA",
+    "productLine": "GYH8",
     "productType": "модульный выключатель",
-    "numberOfPoles": "2",
-    "ratedCurrent": "20",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_2p_20a_1m.html"
+    "numberOfPoles": "4",
+    "ratedCurrent": "32",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_32_4p_32a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-32, 4P, 32A, 12kA, 4M"
+  },
+  {
+    "articleId": "GYH84P125",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "GEYA",
+    "productLine": "GYH8",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "4",
+    "ratedCurrent": "125",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_125_4p_125a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-125, 4P, 125A, 12kA, 4M"
   },
   {
     "articleId": "004314",
@@ -387,7 +407,8 @@
     "numberOfPoles": "1",
     "ratedCurrent": "100",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html",
+    "name": "Модульный выключатель 1P, 100А, 1M"
   },
   {
     "articleId": "276290",
@@ -396,14 +417,16 @@
     "brand": "Eaton",
     "productLine": "IS",
     "productType": "аксессуар",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html",
+    "name": "Крышка зажимов Z-IS/AK-1TE, пластик, для IS"
   },
   {
     "articleId": "248266",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html",
+    "name": "Выключатель нагрузки ZP-A40/3N, 3P+N, 40A, 440VAC, 3kA, с возможностью установки вспомогательных контактов и расцепителя, 4M"
   },
   {
     "articleId": "276278",
@@ -416,10 +439,25 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-80/1, 1P, 80A, 12.5kA, 1M"
   },
   {
-    "articleId": "276270",
+    "articleId": "276271-00.00-00.00-01.01",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "Eaton",
+    "productLine": "IS",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "2",
+    "ratedCurrent": "40",
+    "breakingCapacity": "12,5",
+    "numberOfModules": "2",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_2_2p_40a_12_5ka_2m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/2, 2P, 40A, 12.5kA, 2M, стикерованный"
+  },
+  {
+    "articleId": "276270-00.00-00.00-01.01",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
@@ -429,7 +467,8 @@
     "ratedCurrent": "40",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/1, 1P, 40A, 12.5kA, 1M, стикерованный"
   },
   {
     "articleId": "276266",
@@ -442,20 +481,8 @@
     "ratedCurrent": "32",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html"
-  },
-  {
-    "articleId": "276262",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "25",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_25_1_1p_25a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-32/1, 1P, 32A, 12.5kA, 1M"
   },
   {
     "articleId": "276259",
@@ -468,7 +495,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "2",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html",
+    "name": "Выключатель нагрузки IS-20/2, 2P, 20A, 12.5kA, 2M"
   },
   {
     "articleId": "276258",
@@ -481,7 +509,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-20/1, 1P, 20A, 12.5kA, 1M"
   },
   {
     "articleId": "276256",
@@ -494,20 +523,8 @@
     "ratedCurrent": "16",
     "breakingCapacity": "12,5",
     "numberOfModules": "3",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html"
-  },
-  {
-    "articleId": "276254",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "16",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_1_1p_16a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html",
+    "name": "Выключатель нагрузки IS-16/3, 3P, 16A, 12.5kA, 3M"
   },
   {
     "articleId": "276286",
@@ -520,7 +537,8 @@
     "ratedCurrent": "125",
     "breakingCapacity": "10",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html",
+    "name": "Выключатель нагрузки IS-125/1, 1P, 125A, 10kA, 1M"
   },
   {
     "articleId": "GYH84P80",
@@ -533,7 +551,8 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-80, 4P, 80A, 12kA, 4M"
   },
   {
     "articleId": "GYH84P63",
@@ -546,19 +565,36 @@
     "ratedCurrent": "63",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-63, 4P, 63A, 12kA, 4M"
   },
   {
-    "articleId": "004322",
+    "articleId": "GYH84P32",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
-    "brand": "Legrand",
-    "productLine": "Lexic",
+    "brand": "GEYA",
+    "productLine": "GYH8",
     "productType": "модульный выключатель",
-    "numberOfPoles": "2",
-    "ratedCurrent": "20",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_2p_20a_1m.html"
+    "numberOfPoles": "4",
+    "ratedCurrent": "32",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_32_4p_32a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-32, 4P, 32A, 12kA, 4M"
+  },
+  {
+    "articleId": "GYH84P125",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "GEYA",
+    "productLine": "GYH8",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "4",
+    "ratedCurrent": "125",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_125_4p_125a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-125, 4P, 125A, 12kA, 4M"
   },
   {
     "articleId": "004314",
@@ -570,7 +606,8 @@
     "numberOfPoles": "1",
     "ratedCurrent": "100",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/modulnyy_vyklyuchatel_1p_100a_1m.html",
+    "name": "Модульный выключатель 1P, 100А, 1M"
   },
   {
     "articleId": "276290",
@@ -579,14 +616,16 @@
     "brand": "Eaton",
     "productLine": "IS",
     "productType": "аксессуар",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/kryshka_zazhimov_z_is_ak_1te_plastik_dlya_is.html",
+    "name": "Крышка зажимов Z-IS/AK-1TE, пластик, для IS"
   },
   {
     "articleId": "248266",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_zp_a40_3n_3p_n_40a_440vac_3ka_s_vozmozhnostyu_ustanovki_vspomogatelnykh_kontak.html",
+    "name": "Выключатель нагрузки ZP-A40/3N, 3P+N, 40A, 440VAC, 3kA, с возможностью установки вспомогательных контактов и расцепителя, 4M"
   },
   {
     "articleId": "276278",
@@ -599,10 +638,25 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_80_1_1p_80a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-80/1, 1P, 80A, 12.5kA, 1M"
   },
   {
-    "articleId": "276270",
+    "articleId": "276271-00.00-00.00-01.01",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "Eaton",
+    "productLine": "IS",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "2",
+    "ratedCurrent": "40",
+    "breakingCapacity": "12,5",
+    "numberOfModules": "2",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_2_2p_40a_12_5ka_2m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/2, 2P, 40A, 12.5kA, 2M, стикерованный"
+  },
+  {
+    "articleId": "276270-00.00-00.00-01.01",
     "catalog": "Оборудование для установки на DIN рейку",
     "category": "Выключатели модульные",
     "brand": "Eaton",
@@ -612,7 +666,8 @@
     "ratedCurrent": "40",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_40_1_1p_40a_12_5ka_1m_stikerovannyy.html",
+    "name": "Выключатель нагрузки IS-40/1, 1P, 40A, 12.5kA, 1M, стикерованный"
   },
   {
     "articleId": "276266",
@@ -625,20 +680,8 @@
     "ratedCurrent": "32",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html"
-  },
-  {
-    "articleId": "276262",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "25",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_25_1_1p_25a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_32_1_1p_32a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-32/1, 1P, 32A, 12.5kA, 1M"
   },
   {
     "articleId": "276259",
@@ -651,7 +694,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "2",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_2_2p_20a_12_5ka_2m.html",
+    "name": "Выключатель нагрузки IS-20/2, 2P, 20A, 12.5kA, 2M"
   },
   {
     "articleId": "276258",
@@ -664,7 +708,8 @@
     "ratedCurrent": "20",
     "breakingCapacity": "12,5",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_20_1_1p_20a_12_5ka_1m.html",
+    "name": "Выключатель нагрузки IS-20/1, 1P, 20A, 12.5kA, 1M"
   },
   {
     "articleId": "276256",
@@ -677,20 +722,8 @@
     "ratedCurrent": "16",
     "breakingCapacity": "12,5",
     "numberOfModules": "3",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html"
-  },
-  {
-    "articleId": "276254",
-    "catalog": "Оборудование для установки на DIN рейку",
-    "category": "Выключатели модульные",
-    "brand": "Eaton",
-    "productLine": "IS",
-    "productType": "модульный выключатель",
-    "numberOfPoles": "1",
-    "ratedCurrent": "16",
-    "breakingCapacity": "12,5",
-    "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_1_1p_16a_12_5ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_16_3_3p_16a_12_5ka_3m.html",
+    "name": "Выключатель нагрузки IS-16/3, 3P, 16A, 12.5kA, 3M"
   },
   {
     "articleId": "276286",
@@ -703,7 +736,8 @@
     "ratedCurrent": "125",
     "breakingCapacity": "10",
     "numberOfModules": "1",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_is_125_1_1p_125a_10ka_1m.html",
+    "name": "Выключатель нагрузки IS-125/1, 1P, 125A, 10kA, 1M"
   },
   {
     "articleId": "GYH84P80",
@@ -716,7 +750,8 @@
     "ratedCurrent": "80",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_80_4p_80a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-80, 4P, 80A, 12kA, 4M"
   },
   {
     "articleId": "GYH84P63",
@@ -729,6 +764,35 @@
     "ratedCurrent": "63",
     "breakingCapacity": "12",
     "numberOfModules": "4",
-    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html"
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_63_4p_63a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-63, 4P, 63A, 12kA, 4M"
+  },
+  {
+    "articleId": "GYH84P32",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "GEYA",
+    "productLine": "GYH8",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "4",
+    "ratedCurrent": "32",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_32_4p_32a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-32, 4P, 32A, 12kA, 4M"
+  },
+  {
+    "articleId": "GYH84P125",
+    "catalog": "Оборудование для установки на DIN рейку",
+    "category": "Выключатели модульные",
+    "brand": "GEYA",
+    "productLine": "GYH8",
+    "productType": "модульный выключатель",
+    "numberOfPoles": "4",
+    "ratedCurrent": "125",
+    "breakingCapacity": "12",
+    "numberOfModules": "4",
+    "productLink": "https://lsys.by/katalog/oborudovanie_dlya_ustanovki_na_din_reyku/vyklyuchateli_modulnye/vyklyuchatel_nagruzki_gyh8_4p_125_4p_125a_12ka_4m.html",
+    "name": "Выключатель нагрузки GYH8-4P-125, 4P, 125A, 12kA, 4M"
   }
 ]

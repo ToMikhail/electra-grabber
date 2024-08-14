@@ -15,7 +15,7 @@ async function getAmountOfPages() {
       const html = response.data
       const $ = cheerio.load(html);
       amountOfPages = $('.bx-pagination-container>ul').children().length - 2;
-      console.log('amountOfPages: ', amountOfPages);
+      // console.log('amountOfPages: ', amountOfPages);
 
       return amountOfPages;
     })
@@ -64,9 +64,6 @@ async function runScraping(url) {
   }
   return Promise.all(promises);
 }
-
-
-
 
 // 1 version
 // axios.get(url + currentPage)
@@ -139,8 +136,6 @@ async function runScraping(url) {
 //     console.log(error);
 //   });
 
-
-
 async function getProductItem(link) {
   await axios.get(link)
     .then(response => {
@@ -148,19 +143,20 @@ async function getProductItem(link) {
       const html = response.data;
       const $ = cheerio.load(html);
       const articleElements = $('.prod__info');
+      
       articleElements.each((index, el) => {
         const articleId = $(el).find('.prod__vendor-code').text().split(' ')[1].trim();
         productItem.articleId = articleId;
-
       })
       const elements = $('.tab_show');
       elements.each((index, element) => {
-        const name = $(element).find('p').text().split('\n');
-
-        for (const iterator of name) {
+        const productDescription = $(element).find('p').text().split('\n');
+        const name = $('h1').text();
+        for (const iterator of productDescription) {
           getProduct(iterator, productItem);
         }
         productItem.productLink = link;
+        productItem.name = name;
       })
       data.push(productItem);
 
@@ -173,3 +169,4 @@ async function getProductItem(link) {
       });
     })
 }
+
